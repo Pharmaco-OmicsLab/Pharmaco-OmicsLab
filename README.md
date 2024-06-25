@@ -11,7 +11,7 @@ Our Laboratory's Framework of Personalized Medicine using Integrated Science and
 ## Key resources: 
 
 ### SepMISA - Sepsis Multi-Omics Intervention Study Analysis: 
-- [GAA_sepsis](https://github.com/Pharmaco-OmicsLab/GAA_sepsis) : <ins>"Some descriptive quote"</ins>
+- [GAA_sepsis](https://github.com/Pharmaco-OmicsLab/GAA_sepsis): Exploring the Effects of Glucogenic Amino Acids on the Multiomic Landscape of Sepsis.
 
 ## Research Themes:
 
