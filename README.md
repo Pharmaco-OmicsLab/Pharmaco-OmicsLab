@@ -14,6 +14,8 @@ Some of the content was inspired by *Nature Medicine* 25.5 (2019):792. (Created 
 ### SepMISA - Sepsis Multi-Omics Intervention Study Analysis: 
 - [GAA_sepsis](https://github.com/Pharmaco-OmicsLab/GAA_Sepsis): Exploring the Effects of Glucogenic Amino Acids on the Multiomic Landscape of Sepsis.
 
+### [LipMetAnnotCompare](https://github.com/Pharmaco-OmicsLab/LipMetAnnotCompare) - A Pipeline for Verifying and Improving Lipid and Metabolite Annotations
+
 ## Research Themes:
 
 ### Main Topics:
