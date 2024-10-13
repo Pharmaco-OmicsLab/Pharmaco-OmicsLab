@@ -18,6 +18,8 @@ Some of the content was inspired by *Nature Medicine* 25.5 (2019):792. (Created 
 
 ### [ManuscriptSubmissionGuide](https://github.com/Pharmaco-OmicsLab/ManuscriptSubmissionGuide) - A Step-by-Step Guide for Preparing and Submitting a Scientific Manuscript
 
+### [EasyPubPlot](https://github.com/Pharmaco-OmicsLab/EasyPubPlot) - Shiny App for Easy and Publishable Ploting
+
 ## Research Themes:
 
 ### Main Topics:
