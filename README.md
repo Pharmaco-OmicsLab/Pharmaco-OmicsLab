@@ -7,7 +7,7 @@ The figure below shows our laboratory's framework for personalized medicine usin
 Some of the content was inspired by *Nature Medicine* 25.5 (2019):792. (Created with BioRender.com and Flaticon)
 
 
-### Principal Investigator: [Nguyen Phuoc Long](https://scholar.google.com/citations?user=_UiVLo4AAAAJ&hl=en)
+### Principal Investigator: [Nguyen Phuoc Long](https://scholar.google.com/citations?hl=en&user=_UiVLo4AAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Key resources: 
 
@@ -19,6 +19,8 @@ Some of the content was inspired by *Nature Medicine* 25.5 (2019):792. (Created 
 ### [ManuscriptSubmissionGuide](https://github.com/Pharmaco-OmicsLab/ManuscriptSubmissionGuide) - A Step-by-Step Guide for Preparing and Submitting a Scientific Manuscript
 
 ### [EasyPubPlot](https://github.com/Pharmaco-OmicsLab/EasyPubPlot) - Shiny App for Easy and Publishable Ploting
+
+### [eMLe](https://github.com/Pharmaco-OmicsLab/eMLe) - Shiny App for Easy Machine Learning Evaluation
 
 ## Research Themes:
 
@@ -34,6 +36,8 @@ Some of the content was inspired by *Nature Medicine* 25.5 (2019):792. (Created 
 - Food science and human nutrition.
 
 ## Key Publications
+
+- Wu Z*, Tien NTN*, Bæk O, Zhong J, Klabunde B, Nguyen TT, Yen NTH, **Long NP#**, Nguyen DN#. Regulation of host metabolism and defense strategies to survive neonatal infection. *Biochim Biophys Acta Mol Basis Dis*. 2024 Dec;1870(8):167482. doi: [10.1016/j.bbadis.2024.167482](https://doi.org/10.1016/j.bbadis.2024.167482). Epub 2024 Aug 29. PMID: 39213794.
 
 - Anh NK*, Yen NTH*, Tien NTN, Phat NK, Park YJ, Kim HS, Vu DH, Oh JY, Kim DH, **Long NP**. Metabolic phenotyping and global functional analysis facilitate metabolic signature discovery for tuberculosis treatment monitoring. *Biochim Biophys Acta Mol Basis Dis*. 2024 Apr;1870(4):167064. doi: [10.1016/j.bbadis.2024.167064](https://doi.org/10.1016/j.bbadis.2024.167064). Epub 2024 Feb 10. PMID: 38342417.
 
