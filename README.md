@@ -37,6 +37,12 @@ Some of the content was inspired by *Nature Medicine* 25.5 (2019):792. (Created 
 
 ## Key Publications
 
+- Thu NQ, Oh JH, Tien NTN, Park SM, Yen NTH, Phat NK, Hung TM, Nguyen HT, Nguyen DN, Yoon S, Kim DH, **Long NP#**. The lipidome landscape of amiodarone toxicity: An *in vivo* lipid-centric multi-omics study. *Toxicol Appl Pharmacol*. 2025 Jun;499:117341. doi: [10.1016/j.taap.2025.117341](https://doi.org/10.1016/j.taap.2025.117341). Epub 2025 Apr 9. PMID: 40216313.
+
+- Nhung TTM*, Phat NK*, Anh TT, Nghi TD, Thu NQ, Lee A, Nam Tien NT, Anh NK, Nguyen HT, Kim K, Nguyen DN, Kim DH, Park SK, **Long NP#**. Endoplasmic reticulum stress inhibition preserves mitochondrial function and cell survival during the early onset of isoniazid-induced oxidative stress. *Chem Biol Interact*. 2025 Apr 25;411:111448. doi: [10.1016/j.cbi.2025.111448](https://doi.org/10.1016/j.cbi.2025.111448). Epub 2025 Feb 25. PMID: 40015660.
+
+- Tien NTN, Thu NQ, Kim DH, Park S#, **Long NP#**. EasyPubPlot: A Shiny Web Application for Rapid Omics Data Exploration and Visualization. *J Proteome Res*. 2025 Apr 4;24(4):2188-2195. doi: [10.1021/acs.jproteome.4c01068](https://doi.org/10.1021/acs.jproteome.4c01068). Epub 2025 Mar 7. PMID: 40053871.
+
 - Wu Z*, Tien NTN*, Bæk O, Zhong J, Klabunde B, Nguyen TT, Yen NTH, **Long NP#**, Nguyen DN#. Regulation of host metabolism and defense strategies to survive neonatal infection. *Biochim Biophys Acta Mol Basis Dis*. 2024 Dec;1870(8):167482. doi: [10.1016/j.bbadis.2024.167482](https://doi.org/10.1016/j.bbadis.2024.167482). Epub 2024 Aug 29. PMID: 39213794.
 
 - Anh NK*, Yen NTH*, Tien NTN, Phat NK, Park YJ, Kim HS, Vu DH, Oh JY, Kim DH, **Long NP**. Metabolic phenotyping and global functional analysis facilitate metabolic signature discovery for tuberculosis treatment monitoring. *Biochim Biophys Acta Mol Basis Dis*. 2024 Apr;1870(4):167064. doi: [10.1016/j.bbadis.2024.167064](https://doi.org/10.1016/j.bbadis.2024.167064). Epub 2024 Feb 10. PMID: 38342417.
